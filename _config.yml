@@ -16,7 +16,7 @@
 title: Vinti Design
 email: your-email@example.com
 description: Portfolio & Resume Designer and Front End Developer
-baseurl: "/at/" # the subpath of your site, e.g. /blog
+baseurl: "/vintidesign/" # the subpath of your site, e.g. /blog
 url: "http://vinti93.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
