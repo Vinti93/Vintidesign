@@ -1,0 +1,13 @@
+@import "bourbon/bourbon";
+@import "normalize";
+
+h2{
+  font-family: $helvetica;
+}
+
+.box{
+  background: pink;
+  margin: 20px;
+  @include size(100px);
+  @include position(absolute, 100px auto auto 200px);
+}
